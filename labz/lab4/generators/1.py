@@ -1,0 +1,1 @@
+print(*[j ** 2 for j in range(int(input()))])

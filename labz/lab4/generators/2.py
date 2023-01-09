@@ -1,0 +1,1 @@
+print(*[j for j in range(0, int(input()), 2)], sep = ', ')
